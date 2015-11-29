@@ -1,2 +1,2 @@
-CSR:Clound Stroage System. 
+CSR:Clound Storage System. 
 BY.devKOB
